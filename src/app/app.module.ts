@@ -3,11 +3,11 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { MatComponent } from './mat-toolbar.component';
+import { ToolbarComponent } from './toolbar/toolbar.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, MatComponent ],
+  declarations: [ AppComponent, ToolbarComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }

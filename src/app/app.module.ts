@@ -6,9 +6,10 @@ import { AppComponent } from './app.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { HomeComponent } from './home/home.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import {MatIconModule} from '@angular/material/icon';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, MatToolbarModule ],
+  imports:      [ BrowserModule, FormsModule, MatToolbarModule, MatIconModule ],
   declarations: [ AppComponent, ToolbarComponent, HomeComponent ],
   bootstrap:    [ AppComponent ]
 })

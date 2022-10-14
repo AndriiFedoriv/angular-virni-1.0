@@ -1,5 +1,5 @@
-@import "~@angular/material/prebuilt-themes/purple-green.css";
-
+/* @import "~@angular/material/prebuilt-themes/purple-green.css"; */
+  
 @use '@angular/material' as mat;
 
 @include mat.core();
@@ -34,6 +34,3 @@ $dark-theme: mat.define-dark-theme((
  @include mat.core-color($light-theme);
  @include mat.button-color($light-theme);
 }
-
-
-/* Add application styles & imports to this file! */

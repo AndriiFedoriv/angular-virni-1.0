@@ -1,23 +1,14 @@
 <h2>головна</h2>
 
-<div *ngFor="let product of products">
+<div *ngFor="let product of products; index as productId">
 
-  <h3>
-    <a [title]="product.name + ' details'">
-      {{ product.name }}
-    </a>
-  </h3>
-
-  <p *ngIf="product.description">
-    Опис: {{ product.description }}
-  </p>
-
-  <button type="button" (click)="share()">
-    Вподобайка
-  </button>
-
+<h3>
+  <a [title]="product.name + ' details'" [routerLink]="['/products', productId]">
+    {{ product.name }}
+  </a>
+</h3>
+<!-- . . . -->
 </div>
-
 
 
 <!-- 

@@ -11,14 +11,16 @@ import { HomeComponent } from './home/home.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
 import {MatNativeDateModule} from '@angular/material/core';
+import { ProductDetailsComponent } from './product-details/product-details.component';
 
 @NgModule({
   imports:      [ BrowserModule, BrowserAnimationsModule, FormsModule, MaterialExampleModule,  MatToolbarModule, MatIconModule, ReactiveFormsModule, MatNativeDateModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent },
+      { path: 'products/:productId', component: ProductDetailsComponent },
     ])
    ],
-  declarations: [ AppComponent, ToolbarComponent, HomeComponent ],
+  declarations: [ AppComponent, ToolbarComponent, HomeComponent, ProductDetailsComponent ],
   bootstrap:    [ AppComponent, ToolbarComponent ]
 })
 export class AppModule { }

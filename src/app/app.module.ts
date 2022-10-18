@@ -12,15 +12,17 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
 import {MatNativeDateModule} from '@angular/material/core';
 import { ProductDetailsComponent } from './product-details/product-details.component';
+import { CartComponent } from './cart/cart.component';
 
 @NgModule({
   imports:      [ BrowserModule, BrowserAnimationsModule, FormsModule, MaterialExampleModule,  MatToolbarModule, MatIconModule, ReactiveFormsModule, MatNativeDateModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent },
       { path: 'products/:productId', component: ProductDetailsComponent },
+      { path: 'cart', component: CartComponent },
     ])
    ],
-  declarations: [ AppComponent, ToolbarComponent, HomeComponent, ProductDetailsComponent ],
+  declarations: [ AppComponent, ToolbarComponent, HomeComponent, ProductDetailsComponent, CartComponent, ],
   bootstrap:    [ AppComponent, ToolbarComponent ]
 })
 export class AppModule { }

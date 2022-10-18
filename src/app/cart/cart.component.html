@@ -1,4 +1,4 @@
-<h3>Cart</h3>
+<h3>Корзина</h3>
 
 <div class="cart-item" *ngFor="let item of items">
   <span>{{ item.name }}</span>
@@ -9,18 +9,18 @@
 
 <div>
   <label for="name">
-    Name
+    Ім'я
   </label>
   <input id="name" type="text" formControlName="name">
 </div>
 
 <div>
   <label for="address">
-    Address
+    Пошта
   </label>
   <input id="address" type="text" formControlName="address">
 </div>
 
-<button class="button" type="submit">Purchase</button>
+<button class="button" type="submit">Замовити</button>
 
 </form>

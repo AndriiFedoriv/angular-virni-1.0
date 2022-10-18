@@ -19,7 +19,7 @@ export class ProductDetailsComponent implements OnInit {
 }
     addToCart(product) {
     this.cartService.addToCart(product);
-    window.alert('Your product has been added to the cart!');
+    window.alert('Товар додано до кошика');
   }
   constructor(
     private route: ActivatedRoute,

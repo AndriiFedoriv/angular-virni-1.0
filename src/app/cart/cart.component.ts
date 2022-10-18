@@ -24,7 +24,8 @@ export class CartComponent implements OnInit {
   onSubmit(): void {
     // Process checkout data here
     this.items = this.cartService.clearCart();
-    console.warn('Your order has been submitted', this.checkoutForm.value);
+    console.warn('Ваше замовлення прийнято', this.checkoutForm.value);
+    window.alert('Ваше замовлення прийнято');
     this.checkoutForm.reset();
   }
 

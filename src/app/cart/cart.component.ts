@@ -25,7 +25,6 @@ export class CartComponent implements OnInit {
     // Process checkout data here
     this.items = this.cartService.clearCart();
     console.warn('Ваше замовлення прийнято', this.checkoutForm.value);
-    window.alert('Ваше замовлення прийнято');
     this.checkoutForm.reset();
   }
 

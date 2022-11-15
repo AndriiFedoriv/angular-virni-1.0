@@ -17,7 +17,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'Колір: як на фото можливі інші кольори /n Розмір: від 40 до 60 + Де купити вечірні плаття в Калуші? /n Весільний салон Вірність продає вишукані вечірні сукні та плаття для дружок 2022.',
-      image: './../assets/img/products/girl-logo.jpg',
+      image: './../assets/img/Family.png',
       stock_quantity: 1,
     },
     {
@@ -27,7 +27,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'Колір: червоний, пудра, капучіно, бузковий, можливі інші кольори /n Розмір: від 40 до 60 + /n Де купити вечірні плаття для дружки в Станісліві? /n Весільний салон Вірність продає вишукані вечірні сукні 2022 для урочистих подій у вашому житті.',
-      image: './../assets/img/products/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
+      image: './../assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
       stock_quantity: 1,
     },
     {
@@ -37,7 +37,7 @@ export interface Product {
       category: 'girl-dress',
       categoryId: 3,
       description: 'Колір: Капучіно, Айворі, Білий /n Розмір: Для дівчат від 2-х років /n Весільний салон в Калуші Вірність продає святкові сукні для дівчат від двох років. Великий вибір суконь для дівчаток в наявності.',
-      image: './../assets/img/products/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
+      image: './../assets/img/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
       stock_quantity: 3,
     },
     {
@@ -47,7 +47,7 @@ export interface Product {
       category: 'wedding-dress',
       categoryId: 1,
       description: 'Колір: Айворі, Білий /n Розмір: від 40 до 60 + /n Де купити весільні сукні в Калуші? /n Весільний салон Virnist продає дизайнерські весільні плаття 2022, доступні ціни, великий вибір суконь в наявності. /n Де пошити весільну сукню в Івано-Франківській області? /n Весільний магазин Вірність пошиття весільного плаття від трьох робочих днів, фабрична якість, можливо пошиття сукні по фото.',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 5,
     },
     {
@@ -57,7 +57,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'A large phone with one of the best screens',
-      image: './../assets/img/products/girl-logo.jpg',
+      image: './../assets/img/girl-logo.jpg',
       stock_quantity: 1,
     },
     {
@@ -67,7 +67,7 @@ export interface Product {
       category: 'girl-dress',
       categoryId: 3,
       description: 'A great phone with one of the best cameras',
-      image: './../assets/img/products/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
+      image: './../assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
       stock_quantity: 1,
     },
     {
@@ -77,7 +77,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: '',
-      image: './../assets/img/products/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
+      image: './../assets/img/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
       stock_quantity: 5,
     },
     {
@@ -87,7 +87,7 @@ export interface Product {
       category: 'girl-dress',
       categoryId: 3,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 7,
     },
     {
@@ -97,7 +97,7 @@ export interface Product {
       category: 'wedding-dress',
       categoryId: 1,
       description: 'A large phone with one of the best screens',
-      image: './../assets/img/products/girl-logo.jpg',
+      image: './../assets/img/girl-logo.jpg',
       stock_quantity: 1,
     },
     {
@@ -107,7 +107,7 @@ export interface Product {
       category: 'girl-dress',
       categoryId: 3,
       description: 'A great phone with one of the best cameras',
-      image: './../assets/img/products/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
+      image: './../assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
       stock_quantity: 1,
     },
     {
@@ -117,7 +117,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: '',
-      image: './../assets/img/products/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
+      image: './../assets/img/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
       stock_quantity: 8,
     },
     {
@@ -127,7 +127,7 @@ export interface Product {
       category: 'wedding-dress',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 0,
     },
     {
@@ -137,7 +137,7 @@ export interface Product {
       category: 'perfume-nonpareil',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 80,
     },
     {
@@ -147,7 +147,7 @@ export interface Product {
       category: 'perfume-nonpareil',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 5,
     },
     {
@@ -157,7 +157,7 @@ export interface Product {
       category: 'perfume-nonpareil',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 2,
     },
     {
@@ -167,7 +167,7 @@ export interface Product {
       category: 'perfume-nonpareil',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 7,
     },
     {
@@ -177,7 +177,7 @@ export interface Product {
       category: 'wedding-accessories',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 0,
     },
     {
@@ -187,7 +187,7 @@ export interface Product {
       category: 'wedding-accessories',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 4,
     },
     {
@@ -197,7 +197,7 @@ export interface Product {
       category: 'wedding-accessories',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 10,
     },
     {
@@ -207,7 +207,7 @@ export interface Product {
       category: 'wedding-accessories',
       categoryId: 1,
       description: '',
-      image: './../assets/img/products/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
       stock_quantity: 10,
     }
   ];

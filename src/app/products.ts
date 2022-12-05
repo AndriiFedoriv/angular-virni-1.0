@@ -17,7 +17,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'Колір: як на фото можливі інші кольори /n Розмір: від 40 до 60 + Де купити вечірні плаття в Калуші? /n Весільний салон Вірність продає вишукані вечірні сукні та плаття для дружок 2022.',
-      image: './../assets/img/Family.png',
+      image: 'https://lh3.googleusercontent.com/M28QMhHi7gAiMHCDrl6dFu8k4DITZdbR1uIS2y6BrUJg9Wh8ODEx_Z1WR_5roZpZiKw65Cf99CUlS0hUKBhdjQLG95fVuAgFUPWn7GLvgkjdphYHPb6nA_fIg9cSq-d4VlKqxjg76HVb0zHpxQy2cwkQeUbNdihNkerBbBL7macYavRuTzS6ekuubXWYOAKpqR7pyChnnkw397F8AmE7UzjUl1VO7Zrb9sPQrjlWSyUjjEhtfm7f4h9xbBmg6M9XjzR2ZdiIGwSAOlCu2aWb0Dk_otlKDsn1YQvLx6Olgta5CnovSfKVhkGLYkglRxIXeu-8h7wUHX2eI72SA7NMhsVngxX6r4kQvWqvNAOTpKYMVeYVS2aUEjv_kbXJQ9SulVKA06fe5e6zdXB6418__uWUex49TzqoV7_EeNuxMnOr6ZOvw2YSoVds3H020jJEnn4Yga0bMgyOmAi4OcGnGKnUj-8uClNCM5H1h2Xkj2Cp64NP4YIQOFa91pWbPQd7nkLzFOOF3rr19yKUDT_5dYEx9UCrr3nOsfedUfbhHZbdQRsuCni_pu80-bFBuJxd8h_8ng7bEx5xdfIS1f4gWFwMe3V0kK3rW9nUB_m6UyLIpQ4JK50f7euIp38-30MKzLGo18o4uB-rIu69HJQ7fYIjQ9jqH3mlrjCsggKvHfi-omiemR7kEruz5QAmbMf2oX9sVikU6znF8jNXWyiEj-pZlR3l5OefG1FL0ZlMabUcgijvsWDmfQLPDxPco3j2zZ9TOvYEzFu-dggvshnoZvZ-06K_a5ZrvgC9ziDwu-wteMoM31fkcI8wOYsMTRfGabdd_KvDjEhowxv-dXIAYsUbWSQPRUhNtMxIdwhtrx0pvKboN94k0WLdK9d8406IzfAN0hep9kC5JQfR1FzSSxEMiO3eidkfMMA_Yyq2oERHAzHJPvZT7VTQc6X2YiaXzR7H4Vo-FIdaLlhmDpKIKNtz84j7EaiLN52IYb9YwqXT0iMEsdReuw=w641-h962-no?authuser=0',
       stock_quantity: 1,
     },
     {

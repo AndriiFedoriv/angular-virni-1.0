@@ -2,18 +2,6 @@
   max-width: 400px;
 }
 
-.example-header-image {
-  background-image: './../assets/images/girl-logo.jpg';
-  background-size: cover;
-}
-
-.content {
-  padding: 16px;
-}
-
-.content > mat-card {
-  width: 300px;
-}
 .mat-card-image {
 
   height: 300px;

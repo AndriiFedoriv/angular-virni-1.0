@@ -27,7 +27,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'Колір: червоний, пудра, капучіно, бузковий, можливі інші кольори /n Розмір: від 40 до 60 + /n Де купити вечірні плаття для дружки в Станісліві? /n Весільний салон Вірність продає вишукані вечірні сукні 2022 для урочистих подій у вашому житті.',
-      image: './../assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
+      image: 'https://lh3.googleusercontent.com/byAo_pL-PjVA8BrYiKlS9FsIFj0lBOybNTCAznyzBTQCVyQtPhRiVG2NCPlI5UuOkAr9gIgcG5Dc7iOgVZrR9R9znMwe2Fc7ndP9c_v3zq6nPGR9Hx_qCkkVVJUlTjnhnFQvw3GNwn1jh_nNX072uk5puzldls131T304xkYqQPyDV1QCvsAPMF1ZJ-OOFrJsMJ0yaUMS1_eUQEszRXA3soZvnrP4ytmdKYYoFTmStpqhIRHmy2aKwEx8ZEkdNku9w3q4Q3QuhL5zfI0R58iVKxYRb7xOhxemeWZhKLqSFDp1iX48gggQQ3Ehlk44EusmQMgNR-RxH600g99xhT1dKyJ7QAFqUHVen-E1obJnQGDBbHtjrSqRMM3muWX49znLx4fj-HZAAqkdQ1nBeVHSHwogLYu0EIIc-ywiRKxxkh-FzNIx1vqrjQGYiHdVWUBR1BOT3rOPrOMCYeFUzsBI4f1BHhncvEpp7UBCWvs8c_jF0zEFW0-jxvoIq0htL1VuHkz5MmCX0PIYXL-j9q-0jcpijjy6B2WJO6W5xEvA0oq6m2aJiQK0_uydEmSi-J23JGd9tiPWB-yXrxfqID2QsXvMch3GQM3do3zDkO9FX82D_rqPb0WTTzzauhmE-2mFBVm16NU5fNUx-NjuQ-R1XhrXU0MOEKrwS4jLZmD-rbS5Mu4QGuvHVeqDUORQaVB-wrfVWTybquhpKvBz6SmjnWA3fNeMzDwTR_5ymFY83uvEtSeW-fjg8tLXoTr8JX4WWzkPkkUONz9jmaXpwIb9X4uckkSUQa7-hCoYMyXpobgINjP6RF_Cs8syPnMqTOuwwBwvHImsOWdHsXdKe3Ig20qxFRZEAdAJeZ2Qc8emUZtusoyJWvvRJ8RUMauW7ZkihgamQEuYJ9Y0hvrh7BKu9akubMft68HxVlGxg7QjbrXKNXozJVSbqOTNNoDtLqjVaW3q1EdmvEOz_iLXT46tIK3-R_N7mWBJ8HdhTlujOrnU3TgabH0Ow=w500-h625-no?authuser=0',
       stock_quantity: 1,
     },
     {
@@ -37,7 +37,7 @@ export interface Product {
       category: 'girl-dress',
       categoryId: 3,
       description: 'Колір: Капучіно, Айворі, Білий /n Розмір: Для дівчат від 2-х років /n Весільний салон в Калуші Вірність продає святкові сукні для дівчат від двох років. Великий вибір суконь для дівчаток в наявності.',
-      image: './../assets/img/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
+      image: 'https://lh3.googleusercontent.com/R2R458DupavhHznLBA0QoAmcb_2XsfKbPBI782gPFuzpsut_JVBHYbeYzCHom7PcjdFal6hrimGjH1Keb_uxCob9BbaLppH3Y29q4UlVnSQxRUBBGZYLbTHgteYCF-Oxfr_wIvzUWo6uIcYu7dFoLom4pzJm-PV62U7ISWpz_32D6TIUK7BzcwURGlYAeBI6eQVfan72XyEbirYB4kjCYo1kzwM5VpRLwumdQ4T2VX-mt2RF4apQ3OVaM3ITZ7RKwQOBdJ5_K5GBAMuZ0gfK20Vm1f7QfvRYgYJOcUvlFxiMiRHjsBZmWyqlaOpURh085nW3k7RLciBdtBdlsa7EvHp4keTPkdy5x89S-u8uDeVy1VnX9DmtbiYjYV6GFYmeMBKFW_Pjyc7Tx-pyNAFh96DFf3QkSc_KljJiSEhQVEiWaQRoPGo29vUnCv3nyvuoSfMSa1HWnR1EnDz2M3oKL6ZEX3VsCObphPJcNF3pmZDu0msFz6nDK6JidqNHWftIjPsqpOp3d_i-XJbbqitNt-j4vcXxRYHDNhbbVWtC_IH6eaKLKe88ht1LmEsVBNgXb1V6I3nXZKoPEEoVcHdwRkakDnGzlztyGjyGSCcuVHzF6F3zzhxRTuG_iRfWN5XePMo_868suThLKR-lZZPGQdiMr6VQrpsV5J9smtQurOBHaILQTDJOIvRiKkNQATy_V5Q9n3ziUYts1xTfNYe4r0dLkG-ZWN7Y1kji36w2L5ogeazEtrg_mIwoO2IiPzaqu4PWF4Zo5H51JJq8pjZGlDAygimiXsg4ElWCSlk0NuynXPCeYwS4oBFjX27U7q_kPW93jIp2q93yoLMfJFraM37hJDfM-belIsGl0BKFgtL3hgaSInSn_HWnANF2DF-i-qvowkwAG_L_gIvz4c1VA57MzvrVXwQfpEWNEt9vLU6P3h-ZMlCbd1_8M28mFVjswzit--70TrikdysydaFfhU00AOk-1Z-ehoz8pMr5KsIRoe7ZIGuyZQ=w641-h961-no?authuser=0',
       stock_quantity: 3,
     },
     {

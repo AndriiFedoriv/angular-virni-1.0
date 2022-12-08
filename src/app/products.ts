@@ -17,7 +17,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'Колір: як на фото можливі інші кольори /n Розмір: від 40 до 60 + Де купити вечірні плаття в Калуші? /n Весільний салон Вірність продає вишукані вечірні сукні та плаття для дружок 2022.',
-      image: 'https://lh3.googleusercontent.com/M28QMhHi7gAiMHCDrl6dFu8k4DITZdbR1uIS2y6BrUJg9Wh8ODEx_Z1WR_5roZpZiKw65Cf99CUlS0hUKBhdjQLG95fVuAgFUPWn7GLvgkjdphYHPb6nA_fIg9cSq-d4VlKqxjg76HVb0zHpxQy2cwkQeUbNdihNkerBbBL7macYavRuTzS6ekuubXWYOAKpqR7pyChnnkw397F8AmE7UzjUl1VO7Zrb9sPQrjlWSyUjjEhtfm7f4h9xbBmg6M9XjzR2ZdiIGwSAOlCu2aWb0Dk_otlKDsn1YQvLx6Olgta5CnovSfKVhkGLYkglRxIXeu-8h7wUHX2eI72SA7NMhsVngxX6r4kQvWqvNAOTpKYMVeYVS2aUEjv_kbXJQ9SulVKA06fe5e6zdXB6418__uWUex49TzqoV7_EeNuxMnOr6ZOvw2YSoVds3H020jJEnn4Yga0bMgyOmAi4OcGnGKnUj-8uClNCM5H1h2Xkj2Cp64NP4YIQOFa91pWbPQd7nkLzFOOF3rr19yKUDT_5dYEx9UCrr3nOsfedUfbhHZbdQRsuCni_pu80-bFBuJxd8h_8ng7bEx5xdfIS1f4gWFwMe3V0kK3rW9nUB_m6UyLIpQ4JK50f7euIp38-30MKzLGo18o4uB-rIu69HJQ7fYIjQ9jqH3mlrjCsggKvHfi-omiemR7kEruz5QAmbMf2oX9sVikU6znF8jNXWyiEj-pZlR3l5OefG1FL0ZlMabUcgijvsWDmfQLPDxPco3j2zZ9TOvYEzFu-dggvshnoZvZ-06K_a5ZrvgC9ziDwu-wteMoM31fkcI8wOYsMTRfGabdd_KvDjEhowxv-dXIAYsUbWSQPRUhNtMxIdwhtrx0pvKboN94k0WLdK9d8406IzfAN0hep9kC5JQfR1FzSSxEMiO3eidkfMMA_Yyq2oERHAzHJPvZT7VTQc6X2YiaXzR7H4Vo-FIdaLlhmDpKIKNtz84j7EaiLN52IYb9YwqXT0iMEsdReuw=w641-h962-no?authuser=0',
+      image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
       stock_quantity: 1,
     },
     {
@@ -27,7 +27,7 @@ export interface Product {
       category: 'evening-dress',
       categoryId: 2,
       description: 'Колір: червоний, пудра, капучіно, бузковий, можливі інші кольори /n Розмір: від 40 до 60 + /n Де купити вечірні плаття для дружки в Станісліві? /n Весільний салон Вірність продає вишукані вечірні сукні 2022 для урочистих подій у вашому житті.',
-      image: 'https://lh3.googleusercontent.com/byAo_pL-PjVA8BrYiKlS9FsIFj0lBOybNTCAznyzBTQCVyQtPhRiVG2NCPlI5UuOkAr9gIgcG5Dc7iOgVZrR9R9znMwe2Fc7ndP9c_v3zq6nPGR9Hx_qCkkVVJUlTjnhnFQvw3GNwn1jh_nNX072uk5puzldls131T304xkYqQPyDV1QCvsAPMF1ZJ-OOFrJsMJ0yaUMS1_eUQEszRXA3soZvnrP4ytmdKYYoFTmStpqhIRHmy2aKwEx8ZEkdNku9w3q4Q3QuhL5zfI0R58iVKxYRb7xOhxemeWZhKLqSFDp1iX48gggQQ3Ehlk44EusmQMgNR-RxH600g99xhT1dKyJ7QAFqUHVen-E1obJnQGDBbHtjrSqRMM3muWX49znLx4fj-HZAAqkdQ1nBeVHSHwogLYu0EIIc-ywiRKxxkh-FzNIx1vqrjQGYiHdVWUBR1BOT3rOPrOMCYeFUzsBI4f1BHhncvEpp7UBCWvs8c_jF0zEFW0-jxvoIq0htL1VuHkz5MmCX0PIYXL-j9q-0jcpijjy6B2WJO6W5xEvA0oq6m2aJiQK0_uydEmSi-J23JGd9tiPWB-yXrxfqID2QsXvMch3GQM3do3zDkO9FX82D_rqPb0WTTzzauhmE-2mFBVm16NU5fNUx-NjuQ-R1XhrXU0MOEKrwS4jLZmD-rbS5Mu4QGuvHVeqDUORQaVB-wrfVWTybquhpKvBz6SmjnWA3fNeMzDwTR_5ymFY83uvEtSeW-fjg8tLXoTr8JX4WWzkPkkUONz9jmaXpwIb9X4uckkSUQa7-hCoYMyXpobgINjP6RF_Cs8syPnMqTOuwwBwvHImsOWdHsXdKe3Ig20qxFRZEAdAJeZ2Qc8emUZtusoyJWvvRJ8RUMauW7ZkihgamQEuYJ9Y0hvrh7BKu9akubMft68HxVlGxg7QjbrXKNXozJVSbqOTNNoDtLqjVaW3q1EdmvEOz_iLXT46tIK3-R_N7mWBJ8HdhTlujOrnU3TgabH0Ow=w500-h625-no?authuser=0',
+      image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
       stock_quantity: 1,
     },
     {
@@ -37,7 +37,7 @@ export interface Product {
       category: 'girl-dress',
       categoryId: 3,
       description: 'Колір: Капучіно, Айворі, Білий /n Розмір: Для дівчат від 2-х років /n Весільний салон в Калуші Вірність продає святкові сукні для дівчат від двох років. Великий вибір суконь для дівчаток в наявності.',
-      image: 'https://lh3.googleusercontent.com/R2R458DupavhHznLBA0QoAmcb_2XsfKbPBI782gPFuzpsut_JVBHYbeYzCHom7PcjdFal6hrimGjH1Keb_uxCob9BbaLppH3Y29q4UlVnSQxRUBBGZYLbTHgteYCF-Oxfr_wIvzUWo6uIcYu7dFoLom4pzJm-PV62U7ISWpz_32D6TIUK7BzcwURGlYAeBI6eQVfan72XyEbirYB4kjCYo1kzwM5VpRLwumdQ4T2VX-mt2RF4apQ3OVaM3ITZ7RKwQOBdJ5_K5GBAMuZ0gfK20Vm1f7QfvRYgYJOcUvlFxiMiRHjsBZmWyqlaOpURh085nW3k7RLciBdtBdlsa7EvHp4keTPkdy5x89S-u8uDeVy1VnX9DmtbiYjYV6GFYmeMBKFW_Pjyc7Tx-pyNAFh96DFf3QkSc_KljJiSEhQVEiWaQRoPGo29vUnCv3nyvuoSfMSa1HWnR1EnDz2M3oKL6ZEX3VsCObphPJcNF3pmZDu0msFz6nDK6JidqNHWftIjPsqpOp3d_i-XJbbqitNt-j4vcXxRYHDNhbbVWtC_IH6eaKLKe88ht1LmEsVBNgXb1V6I3nXZKoPEEoVcHdwRkakDnGzlztyGjyGSCcuVHzF6F3zzhxRTuG_iRfWN5XePMo_868suThLKR-lZZPGQdiMr6VQrpsV5J9smtQurOBHaILQTDJOIvRiKkNQATy_V5Q9n3ziUYts1xTfNYe4r0dLkG-ZWN7Y1kji36w2L5ogeazEtrg_mIwoO2IiPzaqu4PWF4Zo5H51JJq8pjZGlDAygimiXsg4ElWCSlk0NuynXPCeYwS4oBFjX27U7q_kPW93jIp2q93yoLMfJFraM37hJDfM-belIsGl0BKFgtL3hgaSInSn_HWnANF2DF-i-qvowkwAG_L_gIvz4c1VA57MzvrVXwQfpEWNEt9vLU6P3h-ZMlCbd1_8M28mFVjswzit--70TrikdysydaFfhU00AOk-1Z-ehoz8pMr5KsIRoe7ZIGuyZQ=w641-h961-no?authuser=0',
+      image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
       stock_quantity: 3,
     },
     {
@@ -197,7 +197,7 @@ export interface Product {
       category: 'wedding-accessories',
       categoryId: 1,
       description: '',
-      image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+      image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
       stock_quantity: 10,
     },
     {

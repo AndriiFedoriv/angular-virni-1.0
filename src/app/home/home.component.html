@@ -1,8 +1,8 @@
 <h2>головна</h2>
 
 <div class="content">
-  <div fxLayout="row wrap" fxLayoutGap="16px grid">
-    <div fxFlex="20%" fxFlex.xs="100%" fxFlex.sm="50%" fxFlex.md="33%" fxFlex.lg="25%" *ngFor="let product of products">
+
+    <div class="product-card" *ngFor="let product of products">
 
       <mat-card class="example-card" [routerLink]="['/products', product.id]">
         <img mat-card-image src="{{ product.image }}" alt="{{ product.name }}">
@@ -23,7 +23,7 @@
         </mat-card-actions>
       </mat-card>
     </div>
-  </div>
+
 </div>
 
 

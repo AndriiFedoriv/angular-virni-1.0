@@ -2,7 +2,7 @@
 
 <div class="content">
 
-    <div class="product-card" *ngFor="let product of products">
+    <div *ngFor="let product of products">
 
       <mat-card class="example-card" [routerLink]="['/products', product.id]">
         <img mat-card-image src="{{ product.image }}" alt="{{ product.name }}">

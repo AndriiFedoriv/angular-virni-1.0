@@ -1,6 +1,6 @@
 .example-card {
   max-width: 400px;
-  flex-direction: row;
+  
 }
 
 .mat-card-image {
@@ -17,6 +17,7 @@
   flex-wrap: wrap;
   box-sizing: border-box;
   align-content: stretch;
-  align-items: stretch;
-  justify-content: flex-start;
+  align-items: baseline;
+  justify-content: center;
+  gap: 1rem;
 }

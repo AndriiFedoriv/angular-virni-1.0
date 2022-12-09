@@ -1,29 +1,29 @@
 <h2>головна</h2>
 
 <div class="content">
-<div fxLayout="row wrap" fxLayoutGap="16px grid">
-  <div fxFlex="20%" fxFlex.xs="100%" fxFlex.sm="50%" fxFlex.md="33%" fxFlex.lg="25%" *ngFor="let product of products">
+  <div fxLayout="row wrap" fxLayoutGap="16px grid">
+    <div fxFlex="20%" fxFlex.xs="100%" fxFlex.sm="50%" fxFlex.md="33%" fxFlex.lg="25%" *ngFor="let product of products">
 
-<mat-card class="example-card" [routerLink]="['/products', product.id]">
-  <img mat-card-image src="{{ product.image }}" alt="{{ product.name }}">
+      <mat-card class="example-card" [routerLink]="['/products', product.id]">
+        <img mat-card-image src="{{ product.image }}" alt="{{ product.name }}">
 
-  <mat-card-title
-    [title]="product.name + ' details'"
-    [routerLink]="['/products', product.id]">
-    {{ product.name }}
-  </mat-card-title>
+        <mat-card-title
+          [title]="product.name + ' details'"
+          [routerLink]="['/products', product.id]">
+          {{ product.name }}
+        </mat-card-title>
 
-  <mat-card-content *ngIf="product.description">
-    Description: {{ product.description }}
-  </mat-card-content>
+        <mat-card-content *ngIf="product.description">
+          Description: {{ product.description }}
+        </mat-card-content>
 
-  <mat-card-actions>
-    <button mat-button>LIKE</button>
-    <button mat-button (click)="share()">SHARE</button>
-  </mat-card-actions>
-</mat-card>
-</div>
-</div>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button (click)="share()">SHARE</button>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+  </div>
 </div>
 
 

@@ -8,13 +8,13 @@
         <img mat-card-image src="{{ product.image }}" alt="{{ product.name }}">
 
         <mat-card-title
-          [title]="product.name + ' details'"
+          [title]="product.name"
           [routerLink]="['/products', product.id]">
           {{ product.name }}
         </mat-card-title>
 
         <mat-card-content *ngIf="product.description">
-          Description: {{ product.description }}
+          Опис: {{ product.description }}
         </mat-card-content>
 
         <mat-card-actions>

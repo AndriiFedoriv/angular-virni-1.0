@@ -1,5 +1,6 @@
 .example-card {
   max-width: 400px;
+  margin-bottom: 8px;
   
 }
 
@@ -7,6 +8,8 @@
   
   height: 300px;
   object-fit: cover;
+  background-image: url('https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/319557267_207681381631304_420049432383565306_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=qa8O94B2rAEAX9i9qE2&_nc_ht=scontent-iev1-1.xx&oh=00_AfBsAjdeLhH7-nuPz9KhuAHW1wVQStk1Hglqre2jcTwcTA&oe=639AAAFB');
+  background-size: cover;
 
 }
 
@@ -29,9 +32,11 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  box-sizing: border-box;
-  align-content: stretch;
-  align-items: baseline;
   justify-content: center;
+  
+  align-items: center;
+  
   gap: 1rem;
+  
+  
 }

@@ -17,7 +17,7 @@ export const products = [
     category: 'evening-dress',
     categoryId: 2,
     description: 'Колір: як на фото можливі інші кольори /n Розмір: від 40 до 60 + Де купити вечірні плаття в Калуші? /n Весільний салон Вірність продає вишукані вечірні сукні та плаття для дружок 2022.',
-    image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
+    image: 'https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/308813132_193619416370834_8142620540759816263_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=-2u2sq-y_CgAX_8j0wQ&_nc_ht=scontent-iev1-1.xx&oh=00_AfBaS3vZAEgbgvDDfQtX3xd_cW0sUMKSREAGZOvluUczwA&oe=639A28AB',
     stock_quantity: 1,
   },
   {
@@ -27,7 +27,7 @@ export const products = [
     category: 'evening-dress',
     categoryId: 2,
     description: 'Колір: червоний, пудра, капучіно, бузковий, можливі інші кольори /n Розмір: від 40 до 60 + /n Де купити вечірні плаття для дружки в Станісліві? /n Весільний салон Вірність продає вишукані вечірні сукні 2022 для урочистих подій у вашому житті.',
-    image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
+    image: 'https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/311568821_196559442743498_4379235205890662146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=90Sqbas4bMEAX98z7j8&tn=ClrgxvjwtCLf4ljO&_nc_ht=scontent-iev1-1.xx&oh=00_AfDnkvRejF0aDjiJtS-mlccJH71qL_CpAoU2oegDV7JtCg&oe=639A89B8',
     stock_quantity: 1,
   },
   {
@@ -37,7 +37,7 @@ export const products = [
     category: 'girl-dress',
     categoryId: 3,
     description: 'Колір: Капучіно, Айворі, Білий /n Розмір: Для дівчат від 2-х років /n Весільний салон в Калуші Вірність продає святкові сукні для дівчат від двох років. Великий вибір суконь для дівчаток в наявності.',
-    image: './../assets/img/VirnistLogoKvadGoldRed.jpg',
+    image: 'https://nobleshine.com.ua/3459-tm_large_default/aa-121.jpg',
     stock_quantity: 3,
   },
   {
@@ -47,7 +47,7 @@ export const products = [
     category: 'wedding-dress',
     categoryId: 1,
     description: 'Колір: Айворі, Білий /n Розмір: від 40 до 60 + /n Де купити весільні сукні в Калуші? /n Весільний салон Virnist продає дизайнерські весільні плаття 2022, доступні ціни, великий вибір суконь в наявності. /n Де пошити весільну сукню в Івано-Франківській області? /n Весільний магазин Вірність пошиття весільного плаття від трьох робочих днів, фабрична якість, можливо пошиття сукні по фото.',
-    image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+    image: 'https://bridalfashion.com/wp-content/uploads/2022/02/SC0009_A.jpg',
     stock_quantity: 5,
   },
   {
@@ -57,7 +57,7 @@ export const products = [
     category: 'evening-dress',
     categoryId: 2,
     description: 'A large phone with one of the best screens',
-    image: './../assets/img/girl-logo.jpg',
+    image: 'https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/301986589_188850260181083_4216127380046790997_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=wkOmQQw2zPYAX9Wt85m&_nc_ht=scontent-iev1-1.xx&oh=00_AfDBvDFSM3lPTkqawI6-Z5lgp9yBx3Tf1LlrAdi_Tn6IyA&oe=639B26AE',
     stock_quantity: 1,
   },
   {
@@ -67,7 +67,7 @@ export const products = [
     category: 'girl-dress',
     categoryId: 3,
     description: 'A great phone with one of the best cameras',
-    image: './../assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
+    image: 'https://nobleshine.com.ua/3425-tm_thickbox_default/aa-110.jpg',
     stock_quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const products = [
     category: 'evening-dress',
     categoryId: 2,
     description: '',
-    image: './../assets/img/Girl_Dress_2022_Bridal_Salon_Virnist_VIFM097_a.jpg',
+    image: 'https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/299026411_187129260353183_1515651880124855576_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=XSUpqrE8t_oAX9UMJ_k&_nc_ht=scontent-iev1-1.xx&oh=00_AfDLbQs0LSvQ_AnslpF0x2BNnLHiP3OLkNEsOzipf5gPqQ&oe=639BA9DF',
     stock_quantity: 5,
   },
   {
@@ -87,7 +87,7 @@ export const products = [
     category: 'girl-dress',
     categoryId: 3,
     description: '',
-    image: './../assets/img/Wedding_Dress_2022_Bridal_Salon_Virnist_VIBF0157_c.jpg',
+    image: 'https://nobleshine.com.ua/3441-tm_large_default/aa-115.jpg',
     stock_quantity: 7,
   },
   {
@@ -97,7 +97,7 @@ export const products = [
     category: 'wedding-dress',
     categoryId: 1,
     description: 'A large phone with one of the best screens',
-    image: './../assets/img/girl-logo.jpg',
+    image: 'https://bridalfashion.com/wp-content/uploads/2022/02/SC0005_A-800x1200.jpg',
     stock_quantity: 1,
   },
   {
@@ -107,7 +107,7 @@ export const products = [
     category: 'girl-dress',
     categoryId: 3,
     description: 'A great phone with one of the best cameras',
-    image: './../assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
+    image: 'https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/299841004_186960657036710_4183839773762604145_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=bXEaXNboOMQAX8_UV1p&_nc_ht=scontent-iev1-1.xx&oh=00_AfCQh629D1-UXCBt1BvHRzi0UMGMAsNKVFlnlB-rBBQRvw&oe=6399E509',
     stock_quantity: 1,
   },
   {

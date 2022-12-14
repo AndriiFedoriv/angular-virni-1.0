@@ -1,11 +1,11 @@
 .example-card {
-  width: 200px;
-  height: 380px;
+  width: 300px;
+  height: 400px;
 
 }
 
 .mat-card-image {
-  height: 250px;
+  height: 280px;
   object-fit: cover;
  
   background-color: #edc9f7;

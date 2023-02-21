@@ -17,7 +17,7 @@ export const products = [
     category: 'evening-dress',
     categoryId: 2,
     description: 'Колір: як на фото можливі інші кольори /n Розмір: від 40 до 60 + Де купити вечірні плаття в Калуші? /n Весільний салон Вірність продає вишукані вечірні сукні та плаття для дружок 2022.',
-    image: 'https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/308813132_193619416370834_8142620540759816263_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=-2u2sq-y_CgAX_8j0wQ&_nc_ht=scontent-iev1-1.xx&oh=00_AfBaS3vZAEgbgvDDfQtX3xd_cW0sUMKSREAGZOvluUczwA&oe=639A28AB',
+    image: 'assets/img/Evening_Dress_Bridesmaid_2022_Bridal_Salon_Virnist_VIBDMAXAZR.jpg',
     stock_quantity: 1,
   },
   {
